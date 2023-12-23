@@ -1,0 +1,13 @@
+---
+enable: true
+title: Prototip EcoGains aplikacije
+description: Pogledajte kako će izgledati EcoGains aplikacija
+
+images:
+  - url: images/screenshots/slider1.png
+  - url: images/screenshots/slider2.png
+  - url: images/screenshots/slider3.png
+  - url: images/screenshots/slider4.png
+  - url: images/screenshots/slider5.png
+  - url: images/screenshots/slider6.png
+  - url: images/screenshots/slider7.png

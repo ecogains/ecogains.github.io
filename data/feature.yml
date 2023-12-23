@@ -1,0 +1,14 @@
+---
+enable: true
+title: Brzo i jednostavno
+description: Putem naše interaktivne mape imaćete uvid u sve lokacije na kojima možete reciklirati otpad
+buttonText: Pratite nas
+Title2nd: Benefiti za korisnike
+description2nd: Koristeći EcoGains aplikaciju moći ćete da reciklirate otpad i da za to budete nagrađeni na više načina
+image1: images/feature/map_screen.png
+image2: images/feature/gains_screen.png
+checkItem:
+  - text: Kuponi
+  - text: Vaučeri
+  - text: Nagradne igre
+  - text: Donacije

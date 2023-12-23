@@ -1,0 +1,9 @@
+---
+enable: false
+title: Šta kažu naši korisnici
+description: Pročitajte šta kažu naši korisnici o EcoGains aplikaciji
+comments:
+  - text: Komentar
+    name: NN-lice
+    designation: Titula-zanimanje
+    image: images/client/

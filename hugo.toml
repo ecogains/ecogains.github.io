@@ -55,7 +55,7 @@ github = "https://github.com/ecogains/test"
 [params]
 
 # Header
-logo = "images/logo.png"
+logo = "images/logo_transparent.png"
 googleAnalytics = ""
 
 # Footer

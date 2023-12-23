@@ -3,7 +3,7 @@ title: "Privatnost i uslovi korišćenja"
 date: 2023-12-23T15:00:56+06:00
 featureImage: /images/blog/blog1_logo.png
 author: EcoGains tim
-authorThumb: ""
+authorThumb: /images/ecogains1.png
 description: >
   Uslovi korišćenja i privatnost podataka na sajtu
 ---

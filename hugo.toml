@@ -59,9 +59,9 @@ logo = "images/logo_transparent.png"
 googleAnalytics = ""
 
 # Footer
-footerTitle = "Prijavite se na našu mailing listu"
+footerTitle = "Pretplatite se na naš mjesečni bilten"
 copyright1 = "Sva prava zadržana"
-copyright2 = "Copyright ©  <a href=\"https://github.com/ecogains\" target=\"_blank\">EcoGains </a> {year}"
+copyright2 = "©  <a href=\"https://github.com/ecogains\" target=\"_blank\">EcoGains </a> {year}"
 
 #contact
 email = "ecogains.ba@gmail.com"

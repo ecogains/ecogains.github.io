@@ -4,13 +4,14 @@ title: Prototip EcoGains aplikacije
 description: Pogledajte kako će izgledati EcoGains aplikacija
 
 images:
-  - url: images/screenshots/slider1.png
-  - url: images/screenshots/slider2.png
-  - url: images/screenshots/slider3.png
-  - url: images/screenshots/slider4.png
-  - url: images/screenshots/slider5.png
-  - url: images/screenshots/slider6.png
-  - url: images/screenshots/slider7.png
-  - url: images/screenshots/slider8.png
-  - url: images/screenshots/slider9.png
-  - url: images/screenshots/slider10.png
+  - url: images/screenshots/login.png
+  - url: images/screenshots/home.png
+  - url: images/screenshots/home-search-res.png
+  - url: images/screenshots/location-drop-off-center.png
+  - url: images/screenshots/location-drop-off-center-details.png
+  - url: images/screenshots/location-container-details.png
+  - url: images/screenshots/camera.png
+  - url: images/screenshots/detect.png
+  - url: images/screenshots/barcode.png
+  - url: images/screenshots/gains.png
+  - url: images/screenshots/profile.png

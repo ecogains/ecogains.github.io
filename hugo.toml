@@ -44,12 +44,12 @@ theme = "apsho"
 [params.address]
 address = "Banja Luka, BiH"
 email = "ecogains.ba@gmail.com"
-phone = "+ (387)"
+phone = ""
 
 # Footer Social
 [params.social]
-facebook = ""
-twitter = ""
+instagram = ""
+linkedin = ""
 github = "https://github.com/ecogains/"
 
 [params]

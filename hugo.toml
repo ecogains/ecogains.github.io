@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://ecogains.github.io/"
+baseURL = "https://ecogains.netlify.app/"
 languageCode = "sr-Latn"
 title = "EcoGains"
 theme = "apsho"

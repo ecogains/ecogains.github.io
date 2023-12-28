@@ -73,17 +73,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-  # Netlify deployment job
-  deploy-netlify:
-    name: netlify
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Publish to Netlify
-        uses: netlify/actions/cli@master
-        with:
-          args: deploy --prod --dir=./public
-        env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

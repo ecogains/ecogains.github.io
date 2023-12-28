@@ -1,5 +1,5 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+# Sample workflow for building and deploying a Hugo site to GitHub Pages and Netlify
+name: Deploy Hugo site to Pages and Netlify
 
 on:
   # Runs on pushes targeting the default branch
@@ -62,8 +62,8 @@ jobs:
         with:
           path: ./public
 
-  # Deployment job
-  deploy:
+  # GitHub pages deployment job
+  deploy-github-pages:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -73,3 +73,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Netlify deployment job
+  deploy-netlify:
+    name: netlify
+    needs: build
+    runs-on:  ubuntu-latest
+    steps:
+      - name: Download public directory
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: public
+          path: public/
+      - name: Publish
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy -p --dir=public
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

@@ -24,20 +24,20 @@ theme = "apsho"
 
 # Footer Sitemap
 [[menu.sitemap]]
-    name = "Početna"
-    url = "#"
-    weight = 1
-[[menu.sitemap]]
     name = "Blog"
     url = "/blog"
+    weight = 1
+[[menu.sitemap]]
+    name = "Postani partner"
+    url = "/partnership"
     weight = 2
+[[menu.sitemap]]
+    name = "Kontaktirajte nas"
+    url = "/contact"
+    weight = 3
 [[menu.sitemap]]
     name = "Privatnost i uslovi korišćenja"
     url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
-    name = "Kontakt"
-    url = "/contact"
     weight = 4
 
 # Footer Address

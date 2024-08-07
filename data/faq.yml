@@ -4,11 +4,21 @@ title: Najčešća pitanja
 description: Ovo su najčešća pitanja koja dobijamo od naših sugrađana. Ukoliko imate neko pitanje koje nije navedeno, slobodno nas kontaktirajte.
 faqItem:
   - question: Kada će biti dostupna aplikacija?
-    answer: Aplikacija će biti dostupna u toku 2024. godine.
+    answer: Aplikacija će biti dostupna u toku 2025. godine.
     dataTarget: One
     show: show
 
-  - question: Koliko ću moći zaraditi preko aplikacije?
-    answer: Preko aplikacije možete zaraditi koliko god želite. Sve zavisi od vaših reciklažnih navika.
+  - question: Kako funkcioniše sistem nagrađivanja?
+    answer: Prilikom recikliranja, dobijate bodove koje možete zamijeniti za razne pogodnosti (kuponi, vaučeri, itd.)
     dataTarget: Two
-    show:
+    show: 
+
+  - question: Da li će aplikacija biti besplatna?
+    answer: Da, aplikacija će biti potpuno besplatna za korišćenje.
+    dataTarget: Three
+    show: 
+
+  - question: Da li će aplikacija biti dostupna za iOS uređaje?
+    answer: Planiramo da aplikacija bude dostupna za iOS uređaje, ali u početku će biti dostupna samo za Android uređaje.
+    dataTarget: Four
+    show: 

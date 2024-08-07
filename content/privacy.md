@@ -1,6 +1,6 @@
 ---
 title: "Politika privatnosti i uslovi korišćenja"
-date: 2023-12-23T15:00:56+06:00
+date: 2024-08-07T10:00:11+06:00
 featureImage: /images/blog/blog1_logo.png
 author: EcoGains tim
 authorThumb: /images/ecogains1.png

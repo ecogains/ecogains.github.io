@@ -1,11 +1,11 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Možete li da zamislite da reciklirate otpad i da za to budete plaćeni?
+title: Možete li da zamislite da reciklirate otpad i da za to budete nagrađeni?
 services:
   - icon: ti-heart
     title: Zdrave navike
-    description: Doprinoseći očuvanju životne sredine, možete zaraditi novac
+    description: Doprinoseći očuvanju životne sredine, činite dobro za sve
 
   - icon: ti-check-box
     title: Besplatna aplikacija
